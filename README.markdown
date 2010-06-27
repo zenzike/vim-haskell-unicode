@@ -19,7 +19,7 @@ Installation
 
 Once installed, create the following symlink in your .vim:
 
-> cd .vim
-> mkdir ftplugin/lhaskell
-> ln -s ftplugin/haskell/unicode.vim ftplugin/lhaskell/unicode.vim
+    cd .vim
+    mkdir ftplugin/lhaskell
+    ln -s ftplugin/haskell/unicode.vim ftplugin/lhaskell/unicode.vim
 
